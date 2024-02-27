@@ -1,0 +1,10 @@
+Country,Age ,Salary,Purchased
+India,35,89000,Yes
+America,20,20000,No
+Africa,20,25000,No
+Canada,25,70000,Yes
+USA,40,120000,Yes
+Brazil,60,200000,Yes
+Srilanka,,40000,No
+Pakistan,43,30000,No
+London,20,,Yes
